@@ -16,5 +16,3 @@ function primeFactors(value) {
 
   return factors[factors.length - 1];
 }
-
-console.log(primeFactors(600851475143));

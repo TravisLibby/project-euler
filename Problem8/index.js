@@ -79,5 +79,5 @@ var numStr = '73167176531330624919225119674426574742355349194934\
   }
 
   return greatestProduct;
-})(numStr, 4);
+})(numStr, 13);
 
